@@ -12,7 +12,7 @@
       "version": "1.0"
     },
     {
-      "table": "CODBEX_PAYMENTTYPES_LANG",
+      "table": "CODBEX_PAYMENTTYPE_LANG",
       "schema": "PUBLIC",
       "file": "/codbex-payments-data/payment-types-lang.csv",
       "header": true,
