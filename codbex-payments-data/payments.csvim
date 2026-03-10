@@ -1,0 +1,48 @@
+{
+  "files": [
+    {
+      "table": "CODBEX_PAYMENTTYPE",
+      "schema": "PUBLIC",
+      "file": "/codbex-payments-data/payment-types.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_PAYMENTTYPE_LANG",
+      "schema": "PUBLIC",
+      "file": "/codbex-payments-data/payment-types-lang.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_PAYMENTDIRECTION",
+      "schema": "PUBLIC",
+      "file": "/codbex-payments-data/payment-direction.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_PAYMENTDIRECTION_LANG",
+      "schema": "PUBLIC",
+      "file": "/codbex-payments-data/payment-direction-lang.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    }
+  ]
+}
