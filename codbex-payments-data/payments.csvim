@@ -3,7 +3,7 @@
     {
       "table": "CODBEX_PAYMENTTYPE",
       "schema": "PUBLIC",
-      "file": "/codbex-payments-data/payment-type/payment-types.csv",
+      "file": "/codbex-payments-data/payment-type/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -15,7 +15,7 @@
     {
       "table": "CODBEX_PAYMENTTYPE_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-payments-data/payment-type/payment-types-lang.csv",
+      "file": "/codbex-payments-data/payment-type/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -27,7 +27,7 @@
     {
       "table": "CODBEX_PAYMENTDIRECTION",
       "schema": "PUBLIC",
-      "file": "/codbex-payments-data/payment-direction/payment-direction.csv",
+      "file": "/codbex-payments-data/payment-direction/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -39,7 +39,7 @@
     {
       "table": "CODBEX_PAYMENTDIRECTION_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-payments-data/payment-direction/payment-direction-lang.csv",
+      "file": "/codbex-payments-data/payment-direction/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
