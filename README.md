@@ -1,7 +1,15 @@
-# codbex-payments-data
-Data records for Pyments module
+# <img src="https://www.codbex.com/icon.svg" width="32" style="vertical-align: middle;"> codbex-payments-data
 
-## Local Development with Docker
+## 📖 Table of Contents
+* [📦 Data](#-data)
+* [🐳 Local Development with Docker](#-local-development-with-docker)
+
+## 📦 Data 
+
+* [Payment direction](https://github.com/codbex/codbex-payments-data/tree/main/codbex-payments-data/payment-direction)
+* [Payment type](https://github.com/codbex/codbex-payments-data/tree/main/codbex-payments-data/payment-type) 
+
+## 🐳 Local Development with Docker
 
 When running this project inside the codbex Atlas Docker image, you must provide authentication for installing dependencies from GitHub Packages.
 1. Create a GitHub Personal Access Token (PAT) with `read:packages` scope.
